@@ -2,7 +2,7 @@
 
 
 ## About
-This is a fork of the (ai-clone-whatsapp repository)[ https://github.com/kinggongzilla/ai-clone-whatsapp/tree/6677acb8c087cd3a6da91a2dbc10bbbfdda92b49] that lets you create an AI chatbot clone of yourself, using your WhatsApp or Telegram chats as training data. 
+This is a fork of the [ai-clone-whatsapp repository]( https://github.com/kinggongzilla/ai-clone-whatsapp/tree/6677acb8c087cd3a6da91a2dbc10bbbfdda92b49) that lets you create an AI chatbot clone of yourself, using your WhatsApp or Telegram chats as training data. 
 
 The default model used is **Mistral-7B-Instruct-v0.2**. The code in this repository heavily builds upon llama-recipes (https://github.com/facebookresearch/llama-recipes), where you can find more examples on different things to do with llama models.
 
