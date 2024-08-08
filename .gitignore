@@ -4,3 +4,14 @@ model/finetune_checkpoint/*
 !model/original/.gitkeep 
 torchtune
 wandb
+ChatExport*
+*Backup*
+data/preprocessing/processed_chats/validation/
+data/preprocessing/processed_chats/train/
+data/preprocessing/raw_chats/train/
+data/preprocessing/raw_chats/validation/
+checkpoints/*
+image_folder
+video_folder
+*.pyc
+
